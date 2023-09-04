@@ -1,2 +1,3 @@
 # Sliding_puzzle
-This is my first project using HTML, CSS, JS.
+I created an engaging Sliding Puzzle Game using HTML5, 
+CSS, and JavaScript.
